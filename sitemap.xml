@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.deplofree.com/</loc>
+    <loc>https://deplofree-three.vercel.app/</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.deplofree.com/#services</loc>
+    <loc>https://deplofree-three.vercel.app/#services</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.deplofree.com/#process</loc>
+    <loc>https://deplofree-three.vercel.app/#process</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.deplofree.com/#work</loc>
+    <loc>https://deplofree-three.vercel.app/#work</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.deplofree.com/#about</loc>
+    <loc>https://deplofree-three.vercel.app/#about</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.deplofree.com/#testimonials</loc>
+    <loc>https://deplofree-three.vercel.app/#testimonials</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.deplofree.com/#contact</loc>
+    <loc>https://deplofree-three.vercel.app/#contact</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
