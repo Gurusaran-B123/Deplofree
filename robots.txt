@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.deplofree.com/sitemap.xml
+Sitemap: https://deplofree-three.vercel.app/sitemap.xml
